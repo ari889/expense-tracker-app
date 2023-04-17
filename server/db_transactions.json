@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "name": "Ontik User",
+      "type": "income",
+      "amount": 5000,
+      "id": 1
+    },
+    {
+      "name": "Mr Customer",
+      "type": "expense",
+      "amount": 100,
+      "id": 2
+    },
+    {
+      "name": "This is a demo product",
+      "type": "expense",
+      "amount": 1500,
+      "id": 3
+    },
+    {
+      "name": "Arijit",
+      "type": "income",
+      "amount": 50000,
+      "id": 4
+    },
+    {
+      "name": "Income",
+      "type": "income",
+      "amount": 20000,
+      "id": 5
+    }
+  ]
+}
